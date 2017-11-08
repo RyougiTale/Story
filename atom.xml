@@ -6,7 +6,7 @@
   <link href="/Story/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/Story/"/>
-  <updated>2017-11-08T08:36:38.738Z</updated>
+  <updated>2017-11-08T09:23:45.999Z</updated>
   <id>http://yoursite.com/Story/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="http://yoursite.com/Story/2017/11/08/%E8%9D%B4%E8%9D%B6%E9%A3%9E/"/>
     <id>http://yoursite.com/Story/2017/11/08/蝴蝶飞/</id>
     <published>2017-11-08T08:17:29.000Z</published>
-    <updated>2017-11-08T08:36:38.738Z</updated>
+    <updated>2017-11-08T09:23:45.999Z</updated>
     
-    <content type="html"><![CDATA[<p>大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情。</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="hello-我是童话"><a href="#hello-我是童话" class="headerlink" title="hello,我是童话"></a>hello,我是童话</h2><hr><pre><code>大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情,这是暂时的域名。</code></pre><p><a href="https://tonghuastory.github.io/Story/" target="_blank" rel="external">https://tonghuastory.github.io/Story/</a></p><hr><pre><code>没什么特别要交代的了，以后想到再说吧！</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情。&lt;/p&gt;
-
+        &lt;hr&gt;
+&lt;h2 id=&quot;hello-我是童话&quot;&gt;&lt;a href=&quot;#hello-我是童话&quot; class=&quot;headerlink&quot; title=&quot;hello,我是童话&quot;&gt;&lt;/a&gt;hello,我是童话&lt;/h2&gt;&lt;hr&gt;
+&lt;pre&gt;&lt;code&gt;大家好，这里是童话的博客，在未来的一段时
       
     
     </summary>

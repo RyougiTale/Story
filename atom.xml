@@ -6,7 +6,7 @@
   <link href="/Story/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/Story/"/>
-  <updated>2017-11-08T08:29:57.351Z</updated>
+  <updated>2017-11-08T08:36:38.738Z</updated>
   <id>http://yoursite.com/Story/</id>
   
   <author>
@@ -17,32 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>start</title>
+    <title>介绍</title>
     <link href="http://yoursite.com/Story/2017/11/08/%E8%9D%B4%E8%9D%B6%E9%A3%9E/"/>
     <id>http://yoursite.com/Story/2017/11/08/蝴蝶飞/</id>
     <published>2017-11-08T08:17:29.000Z</published>
-    <updated>2017-11-08T08:29:57.351Z</updated>
+    <updated>2017-11-08T08:36:38.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情。&lt;/p&gt;
+
+      
     
     </summary>
     
     
-      <category term="大家好，这里是童话的博客，在未来的一段时间里，将在这里分享一些自己的事情。" scheme="http://yoursite.com/Story/tags/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E7%AB%A5%E8%AF%9D%E7%9A%84%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%9C%A8%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E9%87%8C%EF%BC%8C%E5%B0%86%E5%9C%A8%E8%BF%99%E9%87%8C%E5%88%86%E4%BA%AB%E4%B8%80%E4%BA%9B%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%E6%83%85%E3%80%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/Story/2017/11/08/test/"/>
-    <id>http://yoursite.com/Story/2017/11/08/test/</id>
-    <published>2017-11-08T08:17:25.000Z</published>
-    <updated>2017-11-08T08:17:25.239Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="hello" scheme="http://yoursite.com/Story/tags/hello/"/>
     
   </entry>
   

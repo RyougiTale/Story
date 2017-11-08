@@ -6,7 +6,7 @@
   <link href="/Story/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/Story/"/>
-  <updated>2017-10-23T14:07:23.693Z</updated>
+  <updated>2017-11-08T08:17:25.239Z</updated>
   <id>http://yoursite.com/Story/</id>
   
   <author>
@@ -17,21 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>大家好</title>
-    <link href="http://yoursite.com/Story/2017/10/22/test1/"/>
-    <id>http://yoursite.com/Story/2017/10/22/test1/</id>
-    <published>2017-10-22T09:29:19.000Z</published>
-    <updated>2017-10-23T14:07:23.693Z</updated>
-    
-    <content type="html"><![CDATA[<p>hello,i’m Story.</p>]]></content>
+    <title>test</title>
+    <link href="http://yoursite.com/Story/2017/11/08/test/"/>
+    <id>http://yoursite.com/Story/2017/11/08/test/</id>
+    <published>2017-11-08T08:17:25.000Z</published>
+    <updated>2017-11-08T08:17:25.239Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p&gt;hello,i’m Story.&lt;/p&gt;
-
-      
     
     </summary>
     
